@@ -12,6 +12,7 @@
     - queueing
 - 44 short video sequences(有些由消费级手持数码照相机从不同视角拍摄)
  ![crossing](http://vhosts.eecs.umich.edu/vision//acfigures/excross.jpg "crossing"=200*200)
+ <img src="http://vhosts.eecs.umich.edu/vision//acfigures/exwait.jpg" width="40" height="40" alt="waiting"/>
  ![waiting](http://vhosts.eecs.umich.edu/vision//acfigures/exwait.jpg "waiting")
  ![queueing](http://vhosts.eecs.umich.edu/vision//acfigures/exqueue.jpg "queueing")
  ![walking](http://vhosts.eecs.umich.edu/vision//acfigures/exwalk.jpg "queueing")
